@@ -11,6 +11,6 @@
 - Edge detection
 
 ## Assignment 3
-#### Handwritten digit recognition with:
+#### Handwritten digit recognition(MNIST) with:
 - Machine Learning algorithms using sklearn
 - Deep Learning algorithms using PyTorch
