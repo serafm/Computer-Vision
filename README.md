@@ -1,4 +1,4 @@
-# Computer-Vision
+# Computer Vision
 
 ## Assignment 1
 #### NumPy introduction:
